@@ -1,0 +1,11 @@
+An Attention-Grabbing Effect
+Particle animation is one of those cases where smaller is better.
+The tinier the dots, the more impressive of an effect that can be achieved.
+On the one hand, it looks sophisticated and intricate since geometry and physics 
+are involved. On the other hand, it looks fragile and subtle thanks to delicate shapes. 
+This unique fusion makes particle animation exceptional and attention-grabbing.
+
+Particle Network: https://codepen.io/franky/pen/LGMWPK
+Particle orb: https://codepen.io/natewiley/pen/GgONKy
+Particle Ocean: https://codepen.io/kevinsturf/pen/AJtmF
+Particle Logo: https://codepen.io/Zaku/pen/EDaun
